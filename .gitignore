@@ -2,3 +2,4 @@
 .DS_Store
 /include/Eigen/
 /include/pybind11/
+.ipynb_checkpoints/
