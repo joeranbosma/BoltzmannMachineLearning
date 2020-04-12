@@ -11,3 +11,5 @@ The first two parts investigate the accuracy of the employed approximations, fro
 Part 3 employs Metropolis-Hasting Monte Carlo Markov Chain sampling to learn the dynamics of a group of 160 neurons, as measured in a salamander. Here, the learned dynamics are also employed to predict the joint firing rates between multiple neurons. 
 
 A comprehensive analysis is provided in the write-up `Boltzmann Machine learning.pdf`. 
+
+In order to compile the C++ extension, follow the instructions in `include/Eigen.md` and `include/Pybind11.m5`. 
